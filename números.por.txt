@@ -1,0 +1,14 @@
+programa
+{
+	funcao inicio ()
+	{inteiro a,b
+
+a = 2
+b = 5 + a
+
+escreva(b)
+
+
+
+	}
+}
